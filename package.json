@@ -1,0 +1,13 @@
+{
+  "name": "gerimedica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Test.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
